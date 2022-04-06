@@ -1,0 +1,31 @@
+id: P9A9B499B
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG1667
+  instance_id: http://purl.bdrc.io/resource/IE1KG1667
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - ངེས་ཤེས་རིན་པོ་ཆེའི་སྒྲོན་མེ་རྩ་འགྲེལ།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - xin nian lun zhu shu
+  author: http://purl.bdrc.io/resource/P252
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    1b1ec64d58e7498eb7b2c0340f49a2d3:
+      title: པོད ༡་ངེས་ཤེས་རིན་པོ་ཆེའི་སྒྲོན་མེ་རྩ་འགྲེལ
+      volume_number: 1
+      base_file: UT1KG1667_I1KG1850_0000.txt
+      reference: http://purl.bdrc.io/resource/VL13A36A5E056D9520
+      image_group: I1KG1850
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG1667
+  - http://purl.bdrc.io/resource/W1KG1667
+  ocr_software: Namsel
+created_at: '2021-12-22T10:36:13.577335'
+last_modified_at: '2021-12-22T10:36:13.577343'
